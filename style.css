@@ -112,3 +112,53 @@ header,
     font-size: 24px;
     font-weight: 800;
 }
+
+.cta-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 8em;
+}
+
+.cta {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 60%;
+    gap: 8em;
+    padding: 3em 6em;
+    border-radius: 8px;
+}
+
+.cta,
+button {
+    background-color: #3882f6;
+}
+
+.cta,
+.cta-bold,
+button {
+    color: #f9faf8;
+}
+
+.cta-bold {
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.cta p {
+    margin: 4px;
+}
+
+button {
+    border: none;
+    border-radius: 8px;
+    padding: 0.6em 3em;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 800;
+}
+
+.cta button {
+    border: 2px solid white;
+}
