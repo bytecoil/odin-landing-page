@@ -37,6 +37,10 @@ header,
     color: #e5e7eb;
 }
 
+.header-nav a {
+    text-decoration: none;
+}
+
 .header-nav ul {
     display: flex;
     margin: 0;
