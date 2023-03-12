@@ -91,3 +91,24 @@ header,
     margin-top: 4px;
     color: #2c2c2c;
 }
+
+.quote-section {
+    background-color: #e5e7eb;
+    padding: 12em;
+}
+
+.quote-section blockquote {
+    margin: 0 auto;
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1f2937;
+    width: 24em;
+}
+
+.quote-section p {
+    text-align: right;
+    margin: 0 16em;
+    font-size: 24px;
+    font-weight: 800;
+}
