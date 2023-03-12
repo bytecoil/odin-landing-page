@@ -55,3 +55,39 @@ header,
     margin-top: 8em;
     gap: 5em;
 }
+
+.info-section {
+    padding: 1em 12em 6em;
+}
+
+.info-section h2 {
+    text-align: center;
+    font-size: 36px;
+    font-weight: 800;
+    color: #1f2937;
+}
+
+.info-container {
+    margin-top: 3em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4em;
+}
+
+.info img {
+    width: 200px;
+    height: auto;
+    border: 3px solid #3882f6;
+    border-radius: 12px;
+}
+
+.info {
+    width: 200px;
+    text-align: center;
+}
+
+.info p {
+    margin-top: 4px;
+    color: #2c2c2c;
+}
